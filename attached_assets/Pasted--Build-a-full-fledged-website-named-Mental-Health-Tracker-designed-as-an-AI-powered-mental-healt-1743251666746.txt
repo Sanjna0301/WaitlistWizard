@@ -1,0 +1,34 @@
+"Build a full-fledged website named *Mental Health Tracker, designed as an **AI-powered mental health companion*. The website should have a clean, modern, and calming UI/UX with soothing colors and an intuitive layout.  
+
+Core Features:*  
+1. *AI Chatbot*  
+   - Integrate *Google's Gemini API* to provide real-time mental health support and guidance.  
+   - Ensure chatbot conversations are empathetic, secure, and privacy-focused.  
+   - Offer mood tracking and personalized recommendations based on user interactions.  
+
+2. *SOS & Emergency Support*  
+   - Implement an *SOS button* that directly connects users with mental health experts.  
+   - Automatically call the *helpline number (1800 599 0019)* in crisis situations.  
+   - Provide instant resources such as breathing exercises and crisis intervention techniques.  
+
+3. *Voice Recognition*  
+   - Develop a *voice recognition system* that allows users to speak about their mental health concerns.  
+   - AI should analyze the tone and words used, then provide *relevant solutions and support*.  
+   - Ensure multilingual support for broader accessibility.  
+
+4. *User Dashboard*  
+   - Allow users to track their mood, stress levels, and mental health progress over time.  
+   - Provide AI-driven insights, coping strategies, and self-improvement recommendations.  
+   - Include a journal feature for users to note their thoughts and emotions.  
+
+5. *Resource Hub*  
+   - Curate scientifically-backed articles, guided meditation sessions, and mental health exercises.  
+   - Offer professional directories for connecting with certified therapists.  
+
+6. *Security & Privacy*  
+   - End-to-end encryption for user data and chatbot conversations.  
+   - Anonymous mode for users who prefer not to share personal details.  
+
+The website should be *mobile-friendly, fast-loading, and accessible, ensuring a seamless user experience. Implement a **React-based front end* with a *Node.js/Python backend*, and integrate cloud-based AI services for scalability."  
+
+Would you like me to generate some sample UI/UX wireframes or a basic prototype for this
